@@ -1,0 +1,119 @@
+---
+layout: cv
+title: CV Adrian Costin
+---
+# Adrian-Tiberiu Costin
+
+Masterand la Universitatea Tehnica din Cluj-Napoca
+
+<div id="webaddress">
+<a href="costin.t.adrian@gmail.com">Mail: costin.t.adrian@gmail.com</a>
+| <a href="https://github.com/adriancostin6">GitHub: github.com/adriancostin6</a>
+</div>
+<div id="webaddress">
+<a href="https://adriancostin6.github.io">Website: adriancostin6.github.io</a>
+| <a href="https://linkedin.com/in/adrian-costin">LinkedIn: linkedin.com/in/adrian-costin</a>
+</div>
+
+## Momentan
+
+Sunt student la master la Universitatea Tehnica din Cluj Napoca. In momentul de
+fata sunt in cautarea unui job entry-level ca software developer/inginer.
+
+## Educatie
+
+`2020-2022 (est.)` **Universitatea Tehnica din Cluj-Napoca** Masterat in Telecomunicatii
+
+`2016-2020` **Universitatea Tehnica din Cluj-Napoca** Licenta in Electronica, Telecomunicatii si Tehnologia Informatiei
+- Titlu lucrare: Captura si extragerea informatiilor relevante din pachetele SIP si RTP folosind biblioteca libtins
+
+## Experience
+
+`Mar 2021-Sep 2021` **Technical University of Cluj-Napoca** Activitate cercetare
+- Titlu: LAN traffic capture applications using the libtins library
+- Mentor: Conf.dr.ing Daniel Zinca, Departamentul de Comunicatii
+- Responsabilitati:
+    - Elaborarea unui sniffer care intercepteaza traficul de retea si il foloseste pentru a crea
+    obiecte JSON folosind C++ si librariile libtins si rapidjson
+    - Configurarea unui sistem de masini virtuale folosind Vagrant
+    - Configurare Docker pentru a compila si executa codul C++ si a rula snifferul
+    sub forma unui serviciu in interiorul unei masini virtuale Vagrant
+    - Capturarea datelor si folosirea lor ca input pentru un stack docker-compose
+    care contine Apache Kafka si ksqlDB pentru a alcatui un IDS (Intrusion Detection System)
+
+`Aug 2020-Nov 2020` **Technical University of Cluj-Napoca** Activitate cercetare
+- Titlu: Extending the libtins library with SIP and RTP classes
+- Mentor: Conf.dr.ing, Daniel Zinca, Departamentul de Comunicatii
+- Responsabilitati:
+    - Elaborarea unui tool care captureaza si analizeaza pachetele de date transmise
+    in convorbiri VoIP, scris in C++
+    - Capturarea si procesarea pachetelor de date SIP si RTP pentru a inregistra si salva apeluri VoIP
+    - Stocarea apelurilor in format text (mesajele de semnalizare SIP) si ".wav" pentru datele audio (RTP)
+
+`Jul-Sep 2017` **[Institutul National de Cercetare-Dezvoltare pentru Tehnologii Izotopice si Moleculare, Cluj Napoca](http://www.itim-cj.ro/)** Intern
+- Responsabilitati:
+    - Studiul programarii folosind limbaje de tip hardware description (VHDL, Verilog) si al
+    developmentului pe platforme FPGA (Field-programmable Gate Array)
+    -Implementarea de diverse circuite digitale pe placa Digilent Nexys 2 FPGA pentru a aplica
+    cunostintele acumulate:
+        - Convertor Binar-Gray, Tri-State Buffer, Numarator de secvente cu FSM (Finite State Machine) sau cu registru de deplasare
+        - Implementare RAM, Implementare ROM, Numarator cu SSD (Seven Segment Display), Controller VGA, Controller I2C
+
+## Publicatii
+
+`Sep 2021` **Adrian Costin**, Daniel Zinca "[LAN traffic capture applications
+using the libtins library]()," *Sensors: An Open Access Journal from MDPI (pending)*
+
+`Nov 2020` **Adrian Costin**, Daniel Zinca. "[Extending the libtins library with
+SIP and RTP classes](https://ieeexplore.ieee.org/document/9301067)," *2020
+International Symposium on Electronics and Telecommunications* (ISETC),
+2020, pp. 1-4, doi: 10.1109/ISETC50328.2020.9301067.
+
+## Certificari
+
+`Jun 2014` [Cambridge English Level 3 Certificate in ESOL International (Advanced)](../images/cambridge_c2_cert.pdf)
+
+`Jan 2021` [CCNA: Introduction to Networks](https://www.credly.com/badges/e116b8bb-60ac-43bb-b0f3-7343346ac646)
+
+`May 2021` [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/a96f62eb-0962-4969-988c-60d3906565bb)
+
+`Aug 2021` [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/6f861fa5-be09-408b-ae3e-f30349357156)
+
+## Proiecte
+
+### arduino-cs
+
+`Mar-Jun 2021` Client-server pentru placi Arduino, cu scop de utilizare in automatizari
+simple. Include o interfata web care permite utiliztorului acces la informatii precum
+date de la senzori si controlul diverselor dispozitive.
+
+Link proiect: <https://github.com/adriancostin6/arduino-cs>.
+
+### CapJSON
+
+`Mar-Jun 2021` Interfata in linia de comanda pentru captura pachetelor de date
+si transformarea acestora in obiecte JSON.
+
+Link proiect: <https://github.com/adriancostin6/CapJSON>.
+
+### VoIP-Analyzer
+
+`Apr-Aug 2020` Interfata in linia de comanda pentru captura si analiza traficului VoIP.
+Permite procesarea si crearea de pachete de semnalizare SIP, precum si procesare si
+stocarea informatiilor audio ale protocolului RTP in fisiere ".wav".
+
+Link proiect: <https://github.com/adriancostin6/VoIP-Analyzer>.
+
+## Abilitati tehnice
+
+- Limbaje: C/C++
+- Scripting: Shell; Python
+- Version control: Git
+- Build tools: Make; CMake
+- Linux
+- Networking: Captura si analiza traficului; Procesarea de protocoale; Design retea, configurare si troubleshooting
+- Tehnologii virtualizare: Docker; Vagrant; VirtualBox
+
+<!-- ### Footer
+
+Last updated: September 2021 -->
