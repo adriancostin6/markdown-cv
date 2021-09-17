@@ -74,7 +74,9 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	/*color: #aaa;*/
+    color: #1a1a1a
+
 }
 
 p code {
