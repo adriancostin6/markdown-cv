@@ -62,7 +62,7 @@ I'm actively searching for an entry-level position as a software developer/engin
 ## Publications
 
 `Sep 2021` **Adrian Costin**, Daniel Zinca "[LAN traffic capture applications
-using the libtins library]()," *Sensors (pending)*
+using the libtins library]()," *Sensors: An Open Access Journal from MDPI (pending)*
 
 `Nov 2020` **Adrian Costin**, Daniel Zinca. "[Extending the libtins library with
 SIP and RTP classes](https://ieeexplore.ieee.org/document/9301067)," *2020
